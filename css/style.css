@@ -1,0 +1,33 @@
+	body{
+		font-size:12px;
+		font-family:Arial;
+		line-height: 2em;
+		color: gray;
+	}
+	a{
+		font-size:12px;
+		font-family:Arial;
+		line-height: 2em;
+		color:gray;
+	}
+	a:link{
+		text-decoration: none;
+	}
+	a: hover{
+		text-decoration: underline;
+	}
+	.a{
+		color: white;
+		font-size: 14px;
+		text-decoration: none;
+	}
+	.a:hover{
+		color: #b9f605;
+		text-decoration: none;
+	}
+	#color{
+		color: #fdb306;
+	}
+	#head{
+		color: #b9f605;
+	}
