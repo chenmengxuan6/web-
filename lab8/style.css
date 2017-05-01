@@ -1,0 +1,48 @@
+body{
+	font: 24px Arial;
+	color: gray;
+	
+}
+.table{
+	background-image: url(images/banner.jpg);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: 2010px 450px;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+
+}
+a{
+	color: #727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.a{
+	text-align: center;
+	color: white;
+}
+.a:hover{
+	color: #b9f605;
+}
+#color{
+	color:#fdb306;
+}
+#head{
+	color: #b9f605;
+}
+#img{
+	background-image: url(images/pre.gif);
+	background-size: 2010px 60px;
+}
+#foot{
+	background-image: url("images/foot_bg.gif");
+	background-size: 2010px 60px;
+	line-height: 3em;
+}
+.backgroundcolor{
+	background-color: #efefef;
+}

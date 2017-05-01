@@ -1,0 +1,50 @@
+.left{
+	font-size: 20px;
+}
+.left:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.ul{
+	background-image: url(images/menulist.gif);
+	line-height: 2.5em;
+	background-size: 375px;
+}
+#background{
+	background-image: url(images/menutitle.gif);
+	background-size: 375px;
+	line-height: 2em;
+	text-indent: 1em;
+	font-weight: bold;
+	font-size: 26px;
+}
+#ul{
+	line-height:2.5em;
+	list-style-type: disc;
+	font-weight: bold;
+}
+#linehight{
+	line-height: 2.5em;
+}
+#backgroundimage{
+	background-image: url(images/search_bg.gif);
+	background-size: 1000px;
+	line-height: 2em;
+	font-size: 26px;
+	font-weight: bold;
+}
+.bigsquare{
+	background-image: url(images/pre.gif);
+	background-size: 100px 60px;
+	text-align: center;
+}
+.smallsquare{
+	background-image: url(images/pagebg.gif);
+	background-size: 60px 60px;
+	text-align: center;
+	
+}
+#num1{
+	background-image: url(images/pagebg_1.gif);
+	text-align: center;
+}
