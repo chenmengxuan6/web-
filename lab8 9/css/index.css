@@ -1,0 +1,176 @@
+#content{
+	width: 1000px;
+	clear: both;
+	text-align: center;
+	margain:0 auto;
+	position: absolute;
+	margin-left: 120px
+}
+#content_top{
+	overflow: hidden;
+}
+
+#news_pic{
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+	margin-top: 20px;
+	float: left;
+}
+#news_pic_bottom{
+	width: 300px;
+	height: 22px;
+	line-height: 3em;
+}
+#news_pic_top{
+	width: 300px;
+	height: 200px;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+#news_list{
+	width: 370px;
+	float: left;
+	margin-top: 20px;
+	
+
+}
+#news_list_title{
+	margin-left: 20px;
+}
+#more{
+	float: right;
+}
+
+#news_list_ul{
+	text-align: left;
+	list-style-type: disc;
+}
+.news_list_li{
+	line-height: 30px;
+	
+}
+#news_list_left{
+	float: left;
+	width: 310px;
+}
+#news_list_right{
+	float: right;
+	width: 60px;
+	padding: 0px;
+	margin: 0;
+}
+#news_announce{
+	width:277px;
+	margin-top: 20px;
+	float: right; 
+}
+#news_announce_top{
+	background-image: url(../images/board.png);
+	background-repeat: no-repeat;
+	height: 35px;
+	margin-left: 60px;
+}
+#news_announce_list{
+	background-image: url(../images/board_bg.png);
+	width: 285px;
+	height: 210px;
+}
+#news_announce_ul{
+	text-align: left;
+	list-style-type: disc;
+	line-height: 20px;
+}
+#content_bottom_left{
+	width: 715px;
+	float: left;
+}
+#academic1{
+	background-image: url(../images/academic.png);
+	width: 340px;
+	height: 54px;
+	float: left;
+}
+#academic2{
+	background-image: url(../images/book_news.png);
+	width: 340px;
+	height: 54px;
+	float: left;
+}
+.content_bottom_left_left{
+	width: 340px;
+	float: left;
+	margin-left: 12px;
+}
+.content_bottom_left_ul{
+	list-style-type: disc;
+	float: left;
+	text-align: left;
+	line-height: 20px;
+	padding-left: 0px;
+	width: 265px;
+	margin: 0px;
+}
+.float{
+	float:right;
+	width: 75;
+}
+.content_bottom_num{
+	text-align: left;
+	line-height: 20px;
+	padding: 0px;
+	margin:0px;
+}
+#content_bottom_right{
+	width: 280px;
+	margin-top: 20px;
+	float: right;
+}
+#content_bottom_left_top{
+	background-image: url(../images/fengcai_bg1.png);
+	background-repeat: no-repeat;
+	width: 715px;
+	height: 40px;
+}
+#content_bottom_left_buttom{
+	background-image: url(../images/fengcai_bg2.png);
+	background-position: center;
+	background-size: 695px 163px;
+	background-repeat: no-repeat;
+	width: 675px;
+	height: 150px;
+	float: right;
+	margin: 5px;
+	padding:8px 10px 5px 10px;
+
+}
+#content_bottom_left_long{
+	float: right;
+	width: 715px;
+}
+#people{
+	background-image: url(../images/show_bg.png);
+	background-size: 232px 303px;
+	width: 200px;
+	height: 290px;
+	padding: 13px 16px 0px 16px;
+	margin-left: 40px;
+	margin-top:10px;
+}
+#text{
+	text-align: left;
+	margin-bottom: 0px;
+}
+#red{
+	color: red;
+	font-weight: bold;
+}
+#redmore{
+	background-color: red;
+	width: 30px;
+	height: 15px;
+	color: white;
+	text-align: center;
+	float: right;
+
+}
