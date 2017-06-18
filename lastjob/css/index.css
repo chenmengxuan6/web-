@@ -1,0 +1,108 @@
+#submit{
+	width: 300px;
+	height: 30px;
+	float: left;
+}
+#mid_left{
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin-right: : 5px;
+	/*border: 1px solid;*/
+}
+#mid_left_top{
+	width: 300px;
+	height: 300px;
+}
+#top_title{
+	width: 280px;
+	margin: 0px 10px;
+	height: 40px;
+	font:bold 20px '黑体';
+	color: #060;
+	padding-top: 10px;
+	border-bottom: 1px solid #ccc;
+}
+#top_word{
+	color: #050;
+	text-align: left;
+	font-size: 14px;
+	line-height: 1.5em;
+	padding: 10px;
+}
+#mid_mid{
+	width: 220px;
+	height: 400px;
+	float: left;
+	margin: 0px 5px;
+	border: 1px solid;
+}
+#mid_right{
+	width: 480px;
+	height: 600px;
+	margin-top: 10px;
+	float: left;
+	margin-left: : 5px;
+	/*border: 1px solid;*/
+}
+#mid_right_left{
+	height: 600px;
+	width: 300px;
+	float: left;
+	text-align: left;
+}
+#en{
+	width: 160px;
+	float: right;
+}
+#en_word{
+	font:18px '黑体';
+	text-align: left;
+	margin-left: 10px;
+}
+#enp{
+	text-align: left;
+	line-height: 0.8em;
+	opacity: 0.9;
+}
+.enp_picture :hover{
+	opacity: 0.8;
+}
+#tra_word{
+	font:bold 20px '微软雅黑';
+}
+#tra{
+	font-size:14px;
+	line-height: 2em;
+	text-align: left;
+	color: #080;
+	padding-bottom: 15px;
+	border-bottom:1px dotted;
+	border-bottom-color: #ddd;
+	
+}
+#bold{
+	font-weight: bold;
+}
+#mlon{
+	border-bottom: 1px dotted;
+	border-bottom-color: #ddd;
+	padding-bottom: 15px;
+}
+.mlon_li{
+	font-size: 14px;
+	line-height: 2em;
+	text-align: left;
+	color: #080;
+	margin-left: 20px;
+}
+#fbold{
+	font-weight: bold;
+}
+.five_li{
+	font-size: 14px;
+	line-height: 2em;
+	text-align: left;
+	color: #080;
+	margin-left: 20px;
+}

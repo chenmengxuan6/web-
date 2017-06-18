@@ -1,0 +1,47 @@
+#bread_word{
+	font:12px '宋体';
+	color: #999;
+	float: left;
+}
+#mid_word{
+	width: 500px;
+	height: 600px;
+	padding: 10px;
+	text-align: left;
+	text-indent: 1.5em;
+	font-size: 12px;
+	line-height: 2em;
+	float: right;
+}
+#img_float{
+	float: left;
+}
+#mid_left{
+	float: left;
+	margin-left: 25px;
+}
+#up{
+	float: left;
+	margin: 10px 30px 0px 30px;
+}
+#down{
+	float: right;
+	margin: 10px 30px 0px 30px;
+}
+.upd{
+	color: #080;
+}
+#news_title{
+	font:bold 36px '隶书';
+	color: #060;
+}
+.news_li{
+	text-align: left;
+	font-size: 12px;
+	line-height: 2em;
+	color: #080;
+	list-style-image: url(../images/small.png);
+}
+.news_li :hover{
+	color: #0d0;
+}
